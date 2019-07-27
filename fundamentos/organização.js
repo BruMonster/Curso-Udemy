@@ -1,11 +1,11 @@
-// COmentário de uma linha
+// Comentário de uma linha
 console.log ('Linha1')
 
 /*
 Comentário de 
 múltiplas linhas
 */
-console.log('Linh2')
+console.log('Linha2')
 
 /*
 *Comentário de 
