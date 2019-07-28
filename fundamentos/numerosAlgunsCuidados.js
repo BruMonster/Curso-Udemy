@@ -1,7 +1,7 @@
 console.log(7 / 0)
 //Todo núemero muito grande o JavaScript define como Infinito
 console.log("10" / 2)
-//JavaScript consegue mesmo estando entre aspas, ou seja, sendo uma string.
+//JavaScript consegue resolver mesmo estando entre aspas, ou seja, sendo uma string.
 console.log("Show!" * 2)
 //Diferente de algumas linguagensJavaScript não escreve a palavra "Show!" nesse caso duas vezes. Gera um Nothing a Number
 console.log(0.1 + 0.7)
